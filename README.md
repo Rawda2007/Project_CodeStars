@@ -35,7 +35,6 @@ This is a simplified version of a personal movie diary and social network.
 - A User can write multiple Reviews for Movies.
 - Each Review belongs to one User and one Movie.
 
-> ![Data Model] ("Images\architecture.png")
 ## High-Level Architecture
 The system consists of three main components:
 1. **User Management:** manages users and their watched movies.
@@ -55,5 +54,4 @@ The system consists of three main components:
 3. Run the executable.
 4. Use the menu to add users, movies, reviews, and view suggestions.
 
-d per user
-- System can handle ~100 operations per second.
+
