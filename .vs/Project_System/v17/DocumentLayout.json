@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED1FC56-B491-45A6-A3A7-184162531ADD}|Project_System\\Project_System.vcxproj|C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Project_System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED1FC56-B491-45A6-A3A7-184162531ADD}|Project_System\\Project_System.vcxproj|solutionrelative:Project_System\\Project_System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED1FC56-B491-45A6-A3A7-184162531ADD}|Project_System\\Project_System.vcxproj|C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Review.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED1FC56-B491-45A6-A3A7-184162531ADD}|Project_System\\Project_System.vcxproj|solutionrelative:Project_System\\Review.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED1FC56-B491-45A6-A3A7-184162531ADD}|Project_System\\Project_System.vcxproj|C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Movie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED1FC56-B491-45A6-A3A7-184162531ADD}|Project_System\\Project_System.vcxproj|solutionrelative:Project_System\\Movie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED1FC56-B491-45A6-A3A7-184162531ADD}|Project_System\\Project_System.vcxproj|C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Users.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED1FC56-B491-45A6-A3A7-184162531ADD}|Project_System\\Project_System.vcxproj|solutionrelative:Project_System\\Users.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Review.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Review.h",
+              "RelativeDocumentMoniker": "Project_System\\Review.h",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Review.h",
+              "RelativeToolTip": "Project_System\\Review.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-15T08:18:49.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Movie.h",
+              "RelativeDocumentMoniker": "Project_System\\Movie.h",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Movie.h",
+              "RelativeToolTip": "Project_System\\Movie.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-15T08:00:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.h",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Users.h",
+              "RelativeDocumentMoniker": "Project_System\\Users.h",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Users.h",
+              "RelativeToolTip": "Project_System\\Users.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-15T07:26:48.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project_System.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Project_System.cpp",
+              "RelativeDocumentMoniker": "Project_System\\Project_System.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Mansoura University - Main\\Documents\\Projects_C\u002B\u002B\\Project_System\\Project_System\\Project_System\\Project_System.cpp",
+              "RelativeToolTip": "Project_System\\Project_System.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T07:00:11.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
