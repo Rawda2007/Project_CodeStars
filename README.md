@@ -41,7 +41,7 @@ The system consists of three main components:
 2. **Movie Management:** manages movies data.
 3. **Review Management:** handles reviews and ratings.
 
-> ![Architecture Diagram]("Images\architecture.png")
+> ![Architecture Diagram]("architecture.png")
 
 ## Deep Dives
 1. **Scalability:** Using vectors is fine for small data, but for large-scale users/movies, a database is needed.
