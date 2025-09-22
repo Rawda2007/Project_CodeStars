@@ -42,7 +42,7 @@ The system consists of three main components:
 3. **Review Management:** handles reviews and ratings.
 [Web/Mobile App] --HTTP--> [API Server] --SQL--> [Database]
 
-##API
+## API
 - POST /users (register user)
 - GET /movies (search movies)
 - POST /movies/{id}/reviews (add review)
