@@ -40,7 +40,13 @@ The system consists of three main components:
 1. **User Management:** manages users and their watched movies.
 2. **Movie Management:** manages movies data.
 3. **Review Management:** handles reviews and ratings.
+[Web/Mobile App] --HTTP--> [API Server] --SQL--> [Database]
 
+##API
+- POST /users (register user)
+- GET /movies (search movies)
+- POST /movies/{id}/reviews (add review)
+ 
 > ![Architecture Diagram]("architecture.png")
 
 ## Deep Dives
