@@ -24,6 +24,13 @@ This is a simplified version of a personal movie diary and social network.
 1. Fast response time for adding and displaying data.
 2. User-friendly console interface.
 3. Scalable design to allow adding more features in the future.
+4. Response time less than 200 ms
+5. Service availability 99.9%
+6.  Secure communications via HTTPS
+7.  Error logging
+8.  Prioritize availability over consistency (CAP theorem)
+
+
 
 ## Data Model
 - **User:** username, email, watchedMovies (relation with Movie)
@@ -40,7 +47,7 @@ The system consists of three main components:
 1. **User Management:** manages users and their watched movies.
 2. **Movie Management:** manages movies data.
 3. **Review Management:** handles reviews and ratings.
-[Web/Mobile App] --HTTP--> [API Server] --SQL--> [Database]
+4.  [Web/Mobile App] --HTTP--> [API Server] --SQL--> [Database]--Redis-->Cache-->storage
 
 ## API
 - POST /users (register user)
